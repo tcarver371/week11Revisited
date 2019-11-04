@@ -1,0 +1,13 @@
+h3{
+    position: relative;
+    left: 10%;
+    font-weight: bold;
+}
+h1{
+    position: relative;
+    left: 27%;
+}
+li{
+    font-weight: bold;
+    font-size: 140%;
+}
